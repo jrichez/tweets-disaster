@@ -1,8 +1,8 @@
 ---
-title: Tweets_disaster
-emoji: ⚡
+title: Tweets Disaster
+emoji: 🦀
 colorFrom: pink
-colorTo: red
+colorTo: yellow
 sdk: gradio
 app_file: app.py
 pinned: false
